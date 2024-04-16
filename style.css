@@ -9,9 +9,6 @@
 body {
     background-color: var(--mid-blue);
     color: var(--branco);
-    margin-top: 5hv;
-    margin-left: 10vw;
-    margin-right: 10vw;
 }
 
 body h1 {
@@ -55,8 +52,11 @@ a {
     justify-content: center;
     gap: 50px;
     align-items: center;
-    margin-left: 5vw;
-    margin-right: 5vw;
+}
+
+body {
+    height: 80vh;
+    width: 80%;
 }
 
 .topico {
